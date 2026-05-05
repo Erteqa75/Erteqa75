@@ -40,8 +40,8 @@ Passionate about building real-world intelligent systems using machine learning 
 ---
 
 ## Connect with Me
-- LinkedIn: (https://www.linkedin.com/in/erteqa-38771a204)  
-- Email: (erteqa12@gmail.com)  
+- [LinkedIn](https://www.linkedin.com/in/erteqa-38771a204)
+- [Email](erteqa12@gmail.com)  
 
 ---
 
