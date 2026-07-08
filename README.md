@@ -1,55 +1,58 @@
-## Hi, I'm Irtika (Erteqa)
+#### Hi, I'm Irtika (Erteqa)
 
 MCA (AI & ML) Student | AI/ML Enthusiast  
 Passionate about building real-world intelligent systems using machine learning and computer vision  
 
 ---
 
-##  What I Do
+####  What I Do
 - Build machine learning models for real-world problems  
 - Develop computer vision applications (real-time systems)  
 - Work with data to extract insights and predictions  
 
 ---
 
-## Skills
+#### Skills
 - Python  
 - Machine Learning  
-- Computer Vision  
-- Deep Learning  
+- Deep Learning 
+- Computer Vision 
+- Transfer learning
 - Data Analysis  
 
 ---
 
-## Featured Project
-### Real-Time ASL Detection System
-- Built a real-time gesture recognition system using  
-  MobileNetV2 and OpenCV  
+#### Featured Project
+##### Real-Time Hybrid Approach for ASL Recognition using MobileNetV2 and Hand Landmarks
+
+- Built a real-time hybrid computer vision pipeline integrating MobileNetV2 transfer learning with MediaPipe hand landmark extraction, enabling accurate American Sign Language recognition from live webcam input.
 - Designed for low-latency and efficient predictions  
 - Focused on accessibility and assistive technology  
 
 ---
 
-## Tech Stack
+#### Tech Stack
 - Python  
-- OpenCV  
-- TensorFlow / Keras  
-- Scikit-learn  
+- OpenCV
+- MediaPipe
+- TensorFlow
+- Keras  
+- Scikit-learn 
 - Pandas, NumPy  
 
 ---
 
-## Connect with Me
+#### Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/erteqa-38771a204)
 - [Email](mailto:erteqa12@gmail.com)  
 
 ---
 
-## Open to Opportunities
+#### Open to Opportunities
 I am open to:
 - AI/ML internships  
 - Freelance projects  
-- Entry-level roles in AI/ML  
+- Roles in AI/ML  
 
 ---
 
